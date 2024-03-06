@@ -106,4 +106,7 @@
     .title{
         font-size: 1.8rem;
     }
+    .project-img{
+        width: 80vw;
+    }
 }

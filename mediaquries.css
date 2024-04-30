@@ -1,3 +1,14 @@
+@media screen and (max-width: 1800px){
+    .about-container{
+        flex-wrap: wrap;
+    }
+    .about-containers,
+    .contact-info-upper-container,
+    .btn-container{
+        flex-wrap: wrap;
+    }
+}
+
 @media screen and (max-width: 1200px){
     #profile{
         height: 83vh;

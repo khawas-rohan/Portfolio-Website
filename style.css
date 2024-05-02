@@ -371,4 +371,7 @@ footer p{
   border-radius: 50%;
 }
 
-
+.article-info{
+  justify-content:center;
+  text-align: center;
+}
